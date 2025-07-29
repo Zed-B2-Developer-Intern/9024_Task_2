@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "location": "Remote",
+    "role": "Frontend",
+    "description": "Build user interfaces using React and TypeScript."
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "location": "Chennai",
+    "role": "Backend",
+    "description": "Develop APIs using Node.js and Express."
+  },
+  {
+    "id": "3",
+    "title": "Fullstack Engineer",
+    "location": "Bangalore",
+    "role": "Fullstack",
+    "description": "Work on both frontend and backend systems."
+  }
+]
